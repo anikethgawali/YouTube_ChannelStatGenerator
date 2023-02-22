@@ -9,8 +9,8 @@ Needs to create the Google developer account first. Follow the steps below:
 3. Enable YouTube Data API v3.
 4. Go to Credentials tab and create API key. Copy API key to use in this code.
 
-License
+#License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+#Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a suggestion for improvement.
